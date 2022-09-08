@@ -12,7 +12,7 @@ echo -e " \e[91m                                                   ____      ___
 echo -e " \e[91m                                                  / __ \    / ____\ " 
 echo -e " \e[96m                                                 / /  \ \  ( (___   " 
 echo -e " \e[96m                                                ( ()  () )  \___ \  " 
-echo -e " \e[1;91m Youtube\e[96m / \e[100;97Xheishou.com/skilfulwriter\e[0;31m                  ( ()  () )      ) )" 
+echo -e " \e[1;91m Youtube\e[96m / \e[100;97Xxheishou.com/skilfulwriter\e[0;31m                  ( ()  () )      ) )" 
 echo -e " \e[1;91m Github\e[96m /\e[1;93m skilfulwriter                                \ \__/ /   ___/ /"  
 echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m skilfulwriter                              \____/   /____/"    
 echo ""
@@ -21,7 +21,7 @@ banner ( ) {
                   
                   
                   printf ""
-                  echo -e "\e[1;31m  [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92xheishou.com.com/skilfulwriter\e[0m"
+                  echo -e "\e[1;31m  [\e[32m√\e[31m] \e[1;91m by \e[1;36m skilfulwriter \e[93m/ \e[100;92xxheishou.com.com/skilfulwriter\e[0m"
                   }
 
                   wr  ( )  {
